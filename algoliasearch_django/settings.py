@@ -1,0 +1,1 @@
+SETTINGS = getattr(settings, 'ALGOLIA', {})
